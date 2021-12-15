@@ -1,0 +1,4 @@
+table tr td:nth-child(1) {
+    text-align: left !important;
+    margin-left: 50px !important;
+  }
